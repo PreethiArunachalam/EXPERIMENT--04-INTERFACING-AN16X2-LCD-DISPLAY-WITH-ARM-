@@ -225,7 +225,7 @@ void Error_Handler(void)
 
 ![Screenshot 2023-04-28 141146](https://user-images.githubusercontent.com/120115840/235100144-90bff007-2e05-4419-b837-011a98afd183.png)
 
-![Screenshot 2023-04-28 141121](https://user-images.githubusercontent.com/120115840/235100231-bb6bf442-37eb-406c-b488-09322c239a4f.png)
+![Screenshot 2023-04-28 142921](https://user-images.githubusercontent.com/120115840/235104729-16b53517-1c8e-4880-9322-157363c9d594.png)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
